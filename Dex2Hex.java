@@ -24,6 +24,10 @@ public static int Arg1;
 
 System.out.println("Hello World");
 
+//test for sonarqube
+
+System.out.println("Hello World 2");
+
 
     }
 
