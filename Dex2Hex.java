@@ -24,9 +24,9 @@ public static int Arg1;
 
 System.out.println("Hello World");
 
-//test for sonarqube
+//test for sonarqube again
 
-System.out.println("Hello World 2");
+System.out.println("SonarQube is working");
 
 //another test for sonarqube
 
