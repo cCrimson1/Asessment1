@@ -30,7 +30,7 @@ System.out.println("SonarQube is working");
 
 //another test for sonarqube
 
-System.out.println("Hello World 3");
+System.out.println("SonarQube is working");
 
     }
 
