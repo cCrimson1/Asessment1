@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dec2Hex
+class Dec2Hex
 {
 	public static int Arg1;
 
