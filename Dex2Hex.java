@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-//another test
-
 class Dec2Hex
 {
 public static int Arg1;
@@ -58,24 +56,6 @@ System.out.println("SonarQube working");
 
 System.out.println("SonarQube working");
 
-//no print test
-
-//another no test
-
-//another test
-
-//another test
-
-//another test
-
-//another test
-
-//another test
-
-//another test
-
-
-//another test
 
 
    }
