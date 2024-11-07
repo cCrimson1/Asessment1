@@ -20,48 +20,7 @@ public static int Arg1;
 
         System.out.println("Hexadecimal representation is: " + hexadecimal);
 
-	//test for jenkins
-
-//another test
-
-//another test
-
-System.out.println("Hello World");
-
-//test for sonarqube again
-
-System.out.println("SonarQube is working");
-
-//another test for sonarqube
-
-System.out.println("SonarQube working");
-
-//another test again
-
-System.out.println("SonarQube working");
-
-//another test
-
-System.out.println("SonarQube working");
-
-
-//another test 
-
-
-System.out.println("SonarQube working");
-
-
-//another test, last for the day
-
-System.out.println("SonarQube working"); 
-
-
-//new test new day 
-
-System.out.println("SonarQube working");
-
-
-
+	
    }
 
 
